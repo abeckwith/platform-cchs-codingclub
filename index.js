@@ -22,10 +22,10 @@ setInterval(draw, SPEED);
 
 
 var bk_img = new Image();
-bk_img.src = '../images/backgnd.png';
+bk_img.src = 'backgnd.png';
 
 var zelda = new Image();
-zelda.src = '../images/zelda.png';
+zelda.src = 'zelda.png';
 
 /*
  * Deal with keypresses:
